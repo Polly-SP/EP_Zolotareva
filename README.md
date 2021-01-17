@@ -13,6 +13,7 @@ __________
 Landing page - http://var30zpp.std-671.ist.mospolytech.ru/
 __________
 
+_Google disk_ https://drive.google.com/drive/u/0/folders/1sXokcWXoVf0eM1bX8rz0o8Zgr7zk86Xm
 
 _Сылки на видео, как работает приложение_
 
