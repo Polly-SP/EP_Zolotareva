@@ -1,6 +1,15 @@
-Ссылки на проект
+_Ссылки на проект_
 
 Само приложение - http://testdjango2.std-671.ist.mospolytech.ru/admin/
+
+Admin-
+Login: admin
+Password: admin
+
+User-
+Login: User
+Password: polzpolz
+--------------------------------------
 
 REST API - http://testdjango2.std-671.ist.mospolytech.ru/api/agency_api/
 
